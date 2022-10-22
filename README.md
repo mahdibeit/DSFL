@@ -7,9 +7,9 @@ Federated Learning (FL) is considered the key, enabling approach for privacy-pre
 
 ## System Model
 <p float="right">
-  <img src="/images/DSFL.jpg" width="500" title="DSFL"/>
+  <img src="/images/DSFL.JPG" width="403" title="DSFL"/>
   
-  <img src="/images/CKA.jpg" width="500" title="CKA" />
+  <img src="/images/CKA.JPG" width="597" title="CKA" />
 
 </p>
 
