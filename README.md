@@ -1,7 +1,4 @@
-# DSFL
-Dynamic Sparsification for Federated Learning
-
-# FLAC: Federated Learning with Autoencoder Compression and Convergence Guarantee
+# DSFL: Dynamic Sparsification for Federated Learning
 
 This is the implementation of the DSFL introduced in the paper submitted to ICCSPA2022. 
 
